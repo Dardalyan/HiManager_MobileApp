@@ -1,7 +1,9 @@
 ```
-   My new REST Api named HiManager.
+   My new and the latest project, mobile application named HiManager.
    
-   This application uses my latest REST Api named HiManager (developped in .NetCore 7). You can find that project in my repositories as well.
+   This Project is developped in React Native using TypeScript & JavaScript.
+   
+   This application uses my latest REST Api project named HiManager (developped in .NetCore 7). You can find that project in my repositories as well.
    
    In the GIF files I have shared below, you can see the pages and operations in my application.
 ```
